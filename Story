@@ -1,1 +1,1 @@
-story
+story: tell the story of us s visually and interactively. All the worlds significant events can interact so that we can see how things relate to each other. People can have private events so that they can interact with public ones and add to the public, but can leave it private too. Each event can bring up nearby related events to find new paths to explore. 
